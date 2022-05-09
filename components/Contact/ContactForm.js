@@ -54,7 +54,7 @@ const ContactForm = () => {
         <div className="contact-form">
             <h2>Volunteer Interest Form</h2>
   
-            <form name='Volunteer' method="POST" action="/success" data-netlify="true">
+            <form name='Volunteer' method="POST" action="/success/" data-netlify="true">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
