@@ -103,7 +103,7 @@ const ContactForm = () => {
                                     name="area" 
                                     placeholder="Area of Interest" 
                                     className="form-control" 
-                                    value={contact.subject}
+                                    value={contact.area}
                                     onChange={handleChange} 
                                     required 
                                 />
