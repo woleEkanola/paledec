@@ -168,7 +168,18 @@ a:hover, a:focus {
   color: #ff2c9c;
   text-decoration: none;
 }
-
+.maintenance{
+  position: fixed;
+  bottom: 0;
+  left : 0;
+  width: 100%;
+  background: -webkit-gradient(linear, right bottom, left top, from(#ff2c9c), color-stop(#ff287b), color-stop(#ff395a), color-stop(#ff5137), to(#ff6a00));
+  background: linear-gradient(to left top, #ff2c9c, #ff287b, #ff395a, #ff5137, #ff6a00);
+ 
+  color: white;
+  z-index: 90000000000;
+  text-align: center;
+}
 .rounded-10 {
   border-radius: 10px;
 }

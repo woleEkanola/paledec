@@ -36,6 +36,7 @@ class NavbarTwo extends Component {
 
         return (
             <>
+            <p className='maintenance'>Paledec.org's content  is currently  being updated... Please bare with us </p>
                 <div id="navbar" className="navbar-area navbar-style-2">
                     <nav className="navbar navbar-expand-md navbar-light">
                         <div className="container-fluid">

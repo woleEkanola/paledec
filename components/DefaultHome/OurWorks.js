@@ -9,7 +9,7 @@ class OurWorks extends Component {
                     <div className="container">
                         <div className="section-title">
                             <h2>Our Works</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Below are three ways we positivley contribute to the society.</p>
                         </div>
 
                         <div className="row justify-content-center">
