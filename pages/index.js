@@ -4,10 +4,14 @@ import MainBanner from '../components/ItAgency/MainBanner';
 import OurWorks from '../components/DefaultHome/OurWorks';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
-import { useEffect, Fragment } from 'react'
+import { useEffect, useState } from 'react'
 import Head from 'next/head'
+import { attributes, react as HomeContent } from '../content/home.md';
+
+const {banner, our_works_text} = attributes
 
 const Home =()=>{
+
 
     useEffect(() => {
         if (window.netlifyIdentity) {
@@ -29,8 +33,9 @@ const Home =()=>{
       </Head>
          <NavbarTwo />
                 
-                <MainBanner /> 
-                <OurWorks />
+                <MainBanner banner_text ={banner}/> 
+         
+                <OurWorks  our_works_text={our_works_text} />
                 <CtaAreaTwo />
                 <Footer />
 

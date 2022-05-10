@@ -30,5 +30,10 @@
         "sass": "^1.43.4",
         "sweetalert2": "^11.1.10",
         "sweetalert2-react-content": "^4.2.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.17.10",
+        "@babel/preset-react": "^7.16.7",
+        "frontmatter-markdown-loader": "^3.7.0"
     }
 }

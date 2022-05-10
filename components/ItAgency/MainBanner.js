@@ -26,7 +26,7 @@ class MainBanner extends Component {
                                         <div className="main-banner-content">
                                             <h1  className='banner-title'><span>Facilitating Prosperity in</span> AFRICA </h1>
                                                 
-                                            <p> Building relationships and connections that connects Africa to the world at large through Entreprenueship.</p>
+                                            <p> {this.props.banner_text}</p>
                                         
                                             <Link href="/contact">
                                                 <a className="btn btn-primary">Our Blog </a>
