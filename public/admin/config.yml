@@ -21,4 +21,4 @@ collections:
       name: "about"
       file: "content/about.md"
       fields:
-        - { label: "about_text", name: "about_text", widget: "string"}
+        - { label: "about_text", name: "body", widget: "markdown"}

@@ -4,11 +4,14 @@ import PageBanner from '../components/Common/PageBanner';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 import Link from 'next/link';
-import { react as AboutContent } from '../content/about.md';
+import { attributes, react as AboutContent } from '../content/about.md';
+import ReactMarkdown from 'react-markdown' 
 
 
 class Aabout extends Component {
     render() {
+
+        const {about_text} = attributes
         return (
             <>
                 <NavbarTwo />
@@ -28,7 +31,9 @@ class Aabout extends Component {
                                     </div>
 
                                     <div className="article-content">
-                                 <AboutContent />
+                                        <ReactMarkdown>
+                                            {about_text}
+                                        </ReactMarkdown>
                                       
                                     </div>
                                 </div>
