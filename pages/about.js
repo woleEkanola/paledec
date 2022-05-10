@@ -23,24 +23,15 @@ class Aabout extends Component {
                         <div className="col-lg-12 col-md-12">
                                 <div className="blog-details">
                                     <div className="article-img">
-                                        <img src="/images/blog/blog-details.jpg" alt="image" />
+                                        <img src="/images/abt3.jpg" alt="image" />
                                     </div>
 
                                     <div className="article-content">
                                  
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-                                        <blockquote className="wp-block-quote">
-                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                                            <cite>Tom Cruise</cite>
-                                        </blockquote>
-
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-                                        
-                                        <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat.</p>
-
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus.</p>
-
+                                   <p>The Pan African Leadership and Entrepreneurship Development Centre (PALEDEC) is a community-focused Leadership, social entrepreneurship and capacity development charitable organization founded as a global initiative aimed to improve the lives of millions of youth and the vulnerable by putting them on the path to self-sufficiency, economic productivity while fostering community resilience. For the past 4 years of existence.</p>
+<p>The Pan African Leadership and Entrepreneurship Development Centre has directly impacted over 9,000 people through our unique programmes and the continued commitment of individuals, schools, corporate organizations, mentors, sponsors and partners who share our passion in raising generations of transformational leaders and entrepreneurs across Africa.</p>
+<p>The offices of the center are presently located in Morocco, Nigeria, Tanzania and Swaziland.</p>
+<p>These are other events and programs initiated and produced by Pan African Leadership and Entrepreneurship Development Centre, organizers of the Ghanaian Child Summits and Awards.</p>
                                         
                                       
                                     </div>
