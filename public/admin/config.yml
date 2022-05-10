@@ -22,3 +22,24 @@ collections:
       file: "content/about.md"
       fields:
         - { label: "about_text", name: "body", widget: "markdown"}
+    - label: "PAHISA Page"
+      name: "pahisa"
+      file: "content/pahisa.md"
+      fields:
+        - { label: "about_pahisa", name: "body", widget: "markdown"}
+    - label: "FBI Page"
+      name: "fbi"
+      file: "content/fbi.md"
+      fields:
+        - { label: "about_fbi", name: "body", widget: "markdown"}
+    - label: "Child Summit Page"
+      name: "child summit"
+      file: "content/chid_summit.md"
+      fields:
+        - { label: "chid_summit", name: "body", widget: "markdown"}
+    - label: "Our Impact Page"
+      name: "our impact"
+      file: "content/impact.md"
+      fields:
+        - { label: "our impact", name: "body", widget: "markdown"}
+    

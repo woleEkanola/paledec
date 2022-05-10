@@ -1,6 +1,8 @@
 import React from 'react'
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import Footer from '../components/Layouts/Footer';
+import { react as FBIContent } from '../content/fbi.md';
+
 
 
 
@@ -14,9 +16,7 @@ const FBIMagazine = () => {
              <div className="contnt">
                                
                                         <h2>About FBI Magazine</h2>
-                                        <p>FBI Magazine is a quarterly lifestyle magazine that highlights inspirational stories, human-related features, and developmental landmarks across the African Continent in an aesthetically appealing package.</p>
-<p>Previous editions have featured the Governor of Rotary International, Former Minister of Justice Cape Verde, Asa, MO Abudu of Ebony Life TV, and many more.</p>
-
+                                        <FBIContent />
                             </div>
                   
 

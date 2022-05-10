@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import PageBanner from '../components/Common/PageBanner';
-import PricingStyleTwo from '../components/Pricing/PricingStyleTwo';
-import CtaAreaTwo from '../components/Common/CtaAreaTwo';
+import { react as ImpactContent } from '../content/impact.md';
 import Footer from '../components/Layouts/Footer';
 
 class Impact extends Component {
@@ -23,7 +22,7 @@ class Impact extends Component {
             Our Impact
         </h1>
 
-<p>We are committed to driving prosperity to Africa by facilitating long-term relationships that increases diverse trade and investment opportunities in Africa.</p>
+                <ImpactContent />
        </div>
     </section>
              

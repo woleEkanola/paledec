@@ -5,7 +5,7 @@ import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 import Link from 'next/link';
 import { body, react as AboutContent } from '../content/about.md';
-import ReactMarkdown from 'react-markdown' 
+ 
 
 
 class Aabout extends Component {
@@ -16,10 +16,10 @@ class Aabout extends Component {
             <>
                 <NavbarTwo />
 
-                <PageBanner 
+                {/* <PageBanner 
                     pageTitle="About Us" 
                     BGImage="bg-four"
-                />  
+                />   */}
 
 <div className="container">
                         <div className="row">
