@@ -61,22 +61,22 @@ class Footer extends Component {
 
                                     <ul className="list">
                                         <li>
-                                            <Link href="/contact">
-                                                <a>PAHESA</a>
+                                            <Link href="/pahisa">
+                                                <a>PAHISA</a>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/pricing">
+                                            <Link href="/fbi_magazine">
                                                 <a>FBI Magazine</a>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/faq">
+                                            <Link href="/child_summit">
                                                 <a>Child Summit </a>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/privacy-policy">
+                                            <Link href="/volunteers">
                                                 <a>Volunteer</a>
                                             </Link>
                                         </li>

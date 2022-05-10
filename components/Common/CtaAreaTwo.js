@@ -8,7 +8,7 @@ class CtaAreaTwo extends Component {
                 <div className="container">
                     <div className="cta-content">
                         <span>Are You Ready?</span>
-                        <h3>PAHESA 2022 is here!</h3>
+                        <h3>PAHISA 2022 is here!</h3>
                     </div>
 
                     <div className="cta-btn-box">

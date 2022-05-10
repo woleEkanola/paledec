@@ -19,13 +19,13 @@ class OurWorks extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/pahesa">
-                                                <a>PAHESA</a>
+                                                <a>PAHISA</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/pahesa">
-                                                <a>Pan-African Humaniterian and Enterpreneural Summit</a>
+                                                <a>Pan African Humanitarian and Investment Summit</a>
                                             </Link>
                                         </h3>
                                     </div>

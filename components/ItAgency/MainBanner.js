@@ -37,7 +37,7 @@ class MainBanner extends Component {
                                                     onClick={e => {e.preventDefault(); this.openModal()}}
                                                     className="btn btn-secondary"
                                                 > 
-                                                    <i className="icofont-ui-play"></i> PAHESA Summit 2022
+                                                    <i className="icofont-ui-play"></i> PAHISA Summit 2022
                                                 </a>
                                             </Link>
                                         </div> 
