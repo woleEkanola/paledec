@@ -24,15 +24,15 @@ class Pahesa extends Component {
             <>
                 <NavbarTwo />
 
-                <PageBanner 
+                {/* <PageBanner 
                     pageTitle="PAHESA" 
                     BGImage="bg-one"
-                />  
+                />   */}
 
-<section className="about-area ptb-100">
+<section className="about-area ptb-100 space-above">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-lg-5 col-md-12">
+                            {/* <div className="col-lg-5 col-md-12">
                                 <div className="about-image">
                                     <img src="/images/about-img2.jpg" alt="image" className="rounded-10" />
 
@@ -45,47 +45,22 @@ class Pahesa extends Component {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="col-lg-7 col-md-12">
+                            <div className="col-lg-12 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
                                         <h2>About PAHESA</h2>
-                                        <p>Lorem ipsum dolor sit amet, con se ctetur adipiscing elit. In sagittis eg esta ante, sed viverra nunc tinci dunt nec elei fend et tiram.</p>
-                                    </div>
+                                        <p>PAHESA is an annual event conceived to identify pertinent issues in Africa with a view to providing a holistic and multi-dimensional approach to sustainable peace and development in Africa. The event draws the attention of policymakers and highly recognized leaders in various sectors of industry, government, business, and humanity from different countries&nbsp;to identify the barriers to humanitarian issues, peace, and social-economic development in Africa and provide effective and innovative ways of addressing such issues.</p>
+<p>Previous editions have been held in Accra, Ghana (2015); Dubai UAE (2016), and Dar Es Salaam, Tanzania (2017) with over 4,800 participants from 43 different countries including Former Heads of State, Royalty, Celebrities as well as business leaders from around Africa. The summit offers a combination of exhibition space, keynote address, and panel discussion designed to promote a better understanding of multifaceted challenges confronting Africa. </p>
+                                         </div>
 
-                                    <div className="about-text">
-                                        <h4>What its stands for</h4>
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                                    </div>
-
-                        m                                                                                                                                                                                                                                                           <div className="about-text">
-                                        <h4>Our Success</h4>
-                                        <ul>
-                                            <li>
-                                                <i className="pe-7s-check"></i> 
-                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            </li>
-                                            <li>
-                                                <i className="pe-7s-check"></i> 
-                                                It is a long established fact that a reader will be distracted by the readable.
-                                            </li>
-                                            <li>
-                                                <i className="pe-7s-check"></i> 
-                                                Contrary to popular belief, Lorem Ipsum is not simply random text.
-                                            </li>
-                                        </ul>
-                                    </div>
-
-                                    <div className="about-text">
-                                        <h4>Our Mission</h4>
-                                        <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth.</p>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <BlogGridThree />
+                  
 
                     {/* If you want to change the video need to update below videoID */}
                     <ModalVideo 

@@ -91,7 +91,7 @@ class NavbarTwo extends Component {
                                             </li>
 
                                             <li className="nav-item">
-                                                <Link href="/portfolio-details" activeClassName="active">
+                                                <Link href="/child_summit" activeClassName="active">
                                                     <a className="nav-link">Child Summit</a>
                                                 </Link>
                                             </li>
