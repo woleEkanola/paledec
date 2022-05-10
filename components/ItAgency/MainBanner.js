@@ -15,6 +15,9 @@ class MainBanner extends Component {
     }
 
     render() {
+
+        const {banner,  banner_youtubevideoId,banner_button_1_Text, banner_button_2_Text, banner_button_1_link} =this.props.x
+
         return (
             <>
                 <div className="hero-banner it-banner overly hero-bg4">
@@ -26,10 +29,10 @@ class MainBanner extends Component {
                                         <div className="main-banner-content">
                                             <h1  className='banner-title'><span>Facilitating Prosperity in</span> AFRICA </h1>
                                                 
-                                            <p> {this.props.banner_text}</p>
+                                            <p> {banner}</p>
                                         
-                                            <Link href="/contact">
-                                                <a className="btn btn-primary">Our Blog </a>
+                                            <Link href={`/${banner_button_1_link}`}>
+                                                <a className="btn btn-primary">{banner_button_1_Text} </a>
                                             </Link>
 
                                             <Link href="/#play-video">
@@ -37,7 +40,7 @@ class MainBanner extends Component {
                                                     onClick={e => {e.preventDefault(); this.openModal()}}
                                                     className="btn btn-secondary"
                                                 > 
-                                                    <i className="icofont-ui-play"></i> PAHISA Summit 2022
+                                                    <i className="icofont-ui-play"></i>  {banner_button_2_Text}
                                                 </a>
                                             </Link>
                                         </div> 
@@ -58,7 +61,7 @@ class MainBanner extends Component {
                 <ModalVideo 
                     channel='youtube' 
                     isOpen={this.state.isOpen} 
-                    videoId='_ysd-zHamjk' 
+                    videoId={banner_youtubevideoId}
                     onClose={() => this.setState({isOpen: false})} 
                 />
             </>

@@ -12,5 +12,9 @@ collections:
       file: "content/home.md"
       fields:
         - { label: "banner", name: "banner", widget: "string"}
+        - { label: "banner_button_1_Text", name: "banner_button_1_Text", widget: "string"}
+        - { label: "banner_button_1_link", name: "banner_button_1_link", widget: "string"}
+        - { label: "banner_button_2_Text", name: "banner_button_2_Text", widget: "string"}
+        - { label: "banner_youtubevideoId", name: "banner_youtubevideoId", widget: "string"}
         - { label: "our_works_text", name: "our_works_text", widget: "string"}
        

@@ -3,13 +3,14 @@ import Link from 'next/link';
 
 class OurWorks extends Component {
     render() {
+        const {our_works_text} =this.props.x
         return (
             <>
                 <section className="case-studies-area ptb-100 bg-fcfbfb">
                     <div className="container">
                         <div className="section-title">
                             <h2>Our Works</h2>
-                            <p>{this.props.our_works_text}</p>
+                            <p>{our_works_text}</p>
                         </div>
 
                         <div className="row justify-content-center">

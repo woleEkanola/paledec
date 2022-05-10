@@ -8,7 +8,9 @@ import { useEffect, useState } from 'react'
 import Head from 'next/head'
 import { attributes, react as HomeContent } from '../content/home.md';
 
-const {banner, our_works_text} = attributes
+const x = attributes
+
+
 
 const Home =()=>{
 
@@ -33,9 +35,9 @@ const Home =()=>{
       </Head>
          <NavbarTwo />
                 
-                <MainBanner banner_text ={banner}/> 
+                <MainBanner x ={x}/> 
          
-                <OurWorks  our_works_text={our_works_text} />
+                <OurWorks  x ={x}  />
                 <CtaAreaTwo />
                 <Footer />
 
