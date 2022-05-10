@@ -22,7 +22,8 @@ const INITIAL_STATE = {
     email: "",
     number: "",
     subject: "",
-    text: ""
+    AreaOfInteresr: '',
+        text: ""
 };
 
 const ContactForm = (props) => {
@@ -112,10 +113,10 @@ setSccss(s)
                             <div className="form-group">
                                 <input 
                                     type="text" 
-                                    name={props.contact ? 'Subject': "Area of Interest"} 
+                                    name={props.contact ? 'Subject': "AreaOfInterest"} 
                                     placeholder={props.contact ? 'Subject': "Area of Interest"} 
                                     className="form-control" 
-                                    value={props.contact ? 'Subject': "Area of Interest"} 
+                                    value={props.contact ? contact.subject: contact.AreaOfInterest} 
                                     onChange={handleChange} 
                                     required 
                                 />
