@@ -49,7 +49,7 @@ const ContactForm = () => {
             console.log(error)
         }
     };
-const sccss= window.location.protocol + "//" + window.location.host + "/" + 'success/'
+const sccss= 's'
     return (
         <div className="contact-form">
             <h2>Volunteer Interest Form</h2>
