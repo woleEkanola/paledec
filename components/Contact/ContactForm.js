@@ -49,12 +49,13 @@ const ContactForm = () => {
             console.log(error)
         }
     };
-
+const sccss= window.location.protocol + "//" + window.location.host + "/" + 'success/'
     return (
         <div className="contact-form">
             <h2>Volunteer Interest Form</h2>
   
-            <form name='Volunteer' method="POST" action="/success/" data-netlify="true">
+            <form name='Volunteer' method="POST" action="https://formsubmit.co/woleekanola@gmail.com" >
+            <input type="hidden" name="_next" value={sccss} />
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
