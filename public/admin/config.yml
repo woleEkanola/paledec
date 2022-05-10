@@ -7,7 +7,7 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-    - label: "Home"
+    - label: "Home Page"
       name: "home"
       file: "content/home.md"
       fields:
@@ -17,4 +17,8 @@ collections:
         - { label: "banner_button_2_Text", name: "banner_button_2_Text", widget: "string"}
         - { label: "banner_youtubevideoId", name: "banner_youtubevideoId", widget: "string"}
         - { label: "our_works_text", name: "our_works_text", widget: "string"}
-       
+    - label: "About Page"
+      name: "about"
+      file: "content/about.md"
+      fields:
+        - { label: "about_text", name: "about_text", widget: "string"}
