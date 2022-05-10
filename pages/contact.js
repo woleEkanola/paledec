@@ -12,18 +12,19 @@ class Contact extends Component {
             <>
                 <NavbarTwo />
 
-                <PageBanner 
-                    pageTitle="Contact Us" 
-                    BGImage="bg-one"
-                />  
+                <section className="about-area ptb-100 space-above">
+                    <div className="contnt">
 
-                <ContactInfo />
+                {/* <ContactInfo /> */}
                 
-                <ContactForm />
+                <ContactForm contact={true} />
 
                 <div className="ptb-100">
-                    <Newsletter />
+                
                 </div>
+                </div>
+            </section>
+
 
                 <Footer/>
             </>

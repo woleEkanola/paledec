@@ -25,36 +25,14 @@ class Pahesa extends Component {
                 />   */}
 
 <section className="about-area ptb-100 space-above">
-                    <div className="container">
-                        <div className="row align-items-center">
-                            {/* <div className="col-lg-5 col-md-12">
-                                <div className="about-image">
-                                    <img src="/images/about-img2.jpg" alt="image" className="rounded-10" />
-
-                                    <div className="video-box">
-                                        <div
-                                            onClick={e => {e.preventDefault(); this.openModal()}}
-                                            className="video-btn"
-                                        > 
-                                            <i className="pe-7s-play"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> */}
-
-                            <div className="col-lg-12 col-md-12">
-                                <div className="about-content about-content-two">
-                                    <div className="section-title">
+                    <div className="contnt">
+                        
                                         <h2>About PAHESA</h2>
                                         <p>PAHESA is an annual event conceived to identify pertinent issues in Africa with a view to providing a holistic and multi-dimensional approach to sustainable peace and development in Africa. The event draws the attention of policymakers and highly recognized leaders in various sectors of industry, government, business, and humanity from different countries&nbsp;to identify the barriers to humanitarian issues, peace, and social-economic development in Africa and provide effective and innovative ways of addressing such issues.</p>
 <p>Previous editions have been held in Accra, Ghana (2015); Dubai UAE (2016), and Dar Es Salaam, Tanzania (2017) with over 4,800 participants from 43 different countries including Former Heads of State, Royalty, Celebrities as well as business leaders from around Africa. The summit offers a combination of exhibition space, keynote address, and panel discussion designed to promote a better understanding of multifaceted challenges confronting Africa. </p>
                                          </div>
 
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                
                   
 
                     {/* If you want to change the video need to update below videoID */}

@@ -13,13 +13,14 @@ class Volunteers extends Component {
             <>
                 <NavbarTwo />
                 
-                <PageBanner 
-                    pageTitle="Volunteers" 
-                    BGImage="bg-one"
-                />  
+             
+
+<section className="about-area ptb-100 space-above">
+                    <div className="contnt">
 
 <ContactForm />
-
+</div>
+</section>
                 <Footer />
             </>
         );

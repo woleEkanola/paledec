@@ -119,19 +119,19 @@ class NavbarTwo extends Component {
 
                                         <ul className="dropdown-menu">
                                             <li className="nav-item">
-                                                <Link href="/portfolio" activeClassName="active">
+                                                <Link href="/volunteers" activeClassName="active">
                                                     <a className="nav-link">Volunteer</a>
                                                 </Link>
                                             </li>
 
                                             <li className="nav-item">
-                                                <Link href="/portfolio-details" activeClassName="active">
+                                                <Link href="#" activeClassName="active">
                                                     <a className="nav-link">DONATE</a>
                                                 </Link>
                                             </li>
 
                                             <li className="nav-item">
-                                                <Link href="/portfolio-details" activeClassName="active">
+                                                <Link href="/contact" activeClassName="active">
                                                     <a className="nav-link">Contact us</a>
                                                 </Link>
                                             </li>

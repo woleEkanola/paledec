@@ -25,7 +25,7 @@ const INITIAL_STATE = {
     text: ""
 };
 
-const ContactForm = () => {
+const ContactForm = (props) => {
 
     const [contact, setContact] = useState(INITIAL_STATE);
     const [sccss, setSccss] = useState('s');
@@ -58,9 +58,14 @@ setSccss(s)
 
     return (
         <div className="contact-form">
-            <h2>Volunteer Interest Form</h2>
+            
+            <h2>
+            {props.contact ? 'Contact Us': "Volunteer Interest Form"} 
+                
+
+            </h2>
   
-            <form name='Volunteer' method="POST" action="https://formsubmit.co/omoniyi.babalola1@gmail.com" >
+            <form name={props.contact ? 'Contact Us': 'Volunteer'} method="POST" action="https://formsubmit.co/omoniyi.babalola1@gmail.com" >
             <input type="hidden" name="_next" value={sccss} />
                 <div className="container">
                     <div className="row">
@@ -107,10 +112,10 @@ setSccss(s)
                             <div className="form-group">
                                 <input 
                                     type="text" 
-                                    name="area" 
-                                    placeholder="Area of Interest" 
+                                    name={props.contact ? 'Subject': "Area of Interest"} 
+                                    placeholder={props.contact ? 'Subject': "Area of Interest"} 
                                     className="form-control" 
-                                    value={contact.area}
+                                    value={props.contact ? 'Subject': "Area of Interest"} 
                                     onChange={handleChange} 
                                     required 
                                 />
@@ -126,7 +131,7 @@ setSccss(s)
                                     className="form-control" 
                                     value={contact.text}
                                     onChange={handleChange} 
-                                    required 
+                                 
                                 />
                             </div>
                         </div>

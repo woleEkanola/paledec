@@ -15,9 +15,18 @@ class Impact extends Component {
                     pageTitle="Our Impact" 
                     BGImage="bg-four"
                 />  
+    <section className="about-area ptb-100 space-by-left">
+       
+       <div className='contnt'>
 
+        <h1>
+            Our Impact
+        </h1>
+
+<p>We are committed to driving prosperity to Africa by facilitating long-term relationships that increases diverse trade and investment opportunities in Africa.</p>
+       </div>
+    </section>
              
-             <h1>Our Impact</h1>
 
 
                 <Footer />
