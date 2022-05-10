@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect} from 'react'
 import axios from 'axios'
 import Swal from 'sweetalert2'
 import withReactContent from 'sweetalert2-react-content'
@@ -28,6 +28,12 @@ const INITIAL_STATE = {
 const ContactForm = () => {
 
     const [contact, setContact] = useState(INITIAL_STATE);
+    const [sccss, setSccss] = useState('s');
+
+    useEffect(()=>{
+        let s = window.location.protocol + "//" + window.location.host + "/" + 'success/'
+setSccss(s)
+    })
 
     const handleChange = e => {
         const { name, value } = e.target;
@@ -49,7 +55,7 @@ const ContactForm = () => {
             console.log(error)
         }
     };
-const sccss= 's'
+
     return (
         <div className="contact-form">
             <h2>Volunteer Interest Form</h2>
