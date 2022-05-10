@@ -60,7 +60,7 @@ setSccss(s)
         <div className="contact-form">
             <h2>Volunteer Interest Form</h2>
   
-            <form name='Volunteer' method="POST" action="https://formsubmit.co/woleekanola@gmail.com" >
+            <form name='Volunteer' method="POST" action="https://formsubmit.co/omoniyi.babalola1@gmail.com" >
             <input type="hidden" name="_next" value={sccss} />
                 <div className="container">
                     <div className="row">

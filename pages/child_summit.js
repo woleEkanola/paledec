@@ -1,26 +1,14 @@
-import React, { useState, useEffect} from 'react'
-import axios from 'axios'
-import Swal from 'sweetalert2'
-import withReactContent from 'sweetalert2-react-content'
-const MySwal = withReactContent(Swal)
-import baseUrl from '../../utils/baseUrl'
-
-const alertContent = () => {
-    MySwal.fire({
-        title: 'Congratulations!',
-        text: 'Your message was successfully send and will back to you soon',
-        icon: 'success',
-        timer: 2000,
-        timerProgressBar: true,
-        showConfirmButton: false,
-    })
-}
+import React from 'react'
+import NavbarTwo from '../components/Layouts/NavbarTwo';
+import Footer from '../components/Layouts/Footer';
 
 
 const ChildSummit = () => {
 
 
     return (
+              <>
+                <NavbarTwo />
         <section>
              <div className="col-lg-12 col-md-12">
                                 <div className="about-content about-content-two">
@@ -38,6 +26,9 @@ const ChildSummit = () => {
                   
 
         </section>
+        <Footer />
+
+        </>
     )
 }
 
