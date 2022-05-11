@@ -53,5 +53,17 @@ collections:
      - {label: "Publish Date", name: "date", widget: "datetime"}
      - {label: "Featured Image", name: "thumbnail", widget: "image"}
      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "team"
+    label: "Team Profile"
+    folder: "content/team"
+    create: true
+    identifier_field: 'name'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+     - {label: "Name", name: "name", widget: "string"}
+     - {label: "Publish Date", name: "date", widget: "datetime"}
+     - {label: "Featured Image", name: "thumbnail", widget: "image"}
+     - {label: "Body", name: "body", widget: "markdown"}
+ 
 
     
