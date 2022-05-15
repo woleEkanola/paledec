@@ -27,7 +27,7 @@ return(
       <div className="contnt">
 
         {
-         posts.length >0 && posts.map(post => <BlogListItem post={post}/>                          )
+         posts.length >0 && posts.map(post => <BlogListItem post={post} key={post.slug}/>                          )
         }
 
 {
