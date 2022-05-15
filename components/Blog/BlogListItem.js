@@ -2,14 +2,14 @@ import React from 'react'
 import Link from 'next/link'
 
 const  BlogListItem= (props)=>{
-    console.log(props.post)
-    const d = function(x){
-        var dd = String(x.getDate()).padStart(2, '0');
-var mm = String(x.getMonth() + 1).padStart(2, '0'); //January is 0!
-var yyyy = x.getFullYear();
+  
+//     const d = function(x){
+//         var dd = String(x.getDate()).padStart(2, '0');
+// var mm = String(x.getMonth() + 1).padStart(2, '0'); //January is 0!
+// var yyyy = x.getFullYear();
 
-return mm + '/' + dd + '/' + yyyy;
-    }
+// return mm + '/' + dd + '/' + yyyy;
+//     }
     return(
         <div className="col-lg-4 col-md-6">
         <div className="single-blog-item">
@@ -29,7 +29,7 @@ return mm + '/' + dd + '/' + yyyy;
 
             <div className="blog-post-content">
                 <span className="date">
-                {d(new Date(props.post.frontmatter.date))}
+                { Date(props.post.frontmatter.date)}
                 </span>
 
                 <h3>
