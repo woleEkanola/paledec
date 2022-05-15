@@ -14,7 +14,7 @@ return mm + '/' + dd + '/' + yyyy;
         <div className="col-lg-4 col-md-6">
         <div className="single-blog-item">
             <div className="blog-image">
-                <Link href="/#">
+                <Link href="#">
                     <a>
                         <img src={'/' + props.post.frontmatter.thumbnail} alt="image" />
                     </a>
@@ -33,7 +33,7 @@ return mm + '/' + dd + '/' + yyyy;
                 </span>
 
                 <h3>
-                    <Link href="/blog-details">
+                    <Link href="#">
                         <a>
                            {props.post.frontmatter.name}
                         </a>
