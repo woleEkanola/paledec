@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-export default function BlogListItem (props){
+const  BlogListItem= (props)=>{
     console.log(props.post)
     const d = function(x){
         var dd = String(x.getDate()).padStart(2, '0');
@@ -53,3 +53,5 @@ return mm + '/' + dd + '/' + yyyy;
     </div>
     )
 }
+
+export default BlogListItem
