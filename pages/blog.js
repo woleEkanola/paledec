@@ -35,7 +35,7 @@ const  BlogListItem= (props)=>{
   
               <div className="blog-post-content">
                   <span className="date">
-                  { d(Date(props.post.frontmatter.date))}
+                  { d(new Date(props.post.frontmatter.date))}
                   </span>
   
                   <h3>
