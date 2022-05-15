@@ -9,13 +9,13 @@ import Link from 'next/link'
 
 const  BlogListItem= (props)=>{
   
-  //     const d = function(x){
-  //         var dd = String(x.getDate()).padStart(2, '0');
-  // var mm = String(x.getMonth() + 1).padStart(2, '0'); //January is 0!
-  // var yyyy = x.getFullYear();
+      const d = function(x){
+          var dd = String(x.getDate()).padStart(2, '0');
+  var mm = String(x.getMonth() + 1).padStart(2, '0'); //January is 0!
+  var yyyy = x.getFullYear();
   
-  // return mm + '/' + dd + '/' + yyyy;
-  //     }
+  return mm + '/' + dd + '/' + yyyy;
+      }
       return(
           <div className="col-lg-4 col-md-6">
           <div className="single-blog-item">
@@ -35,7 +35,7 @@ const  BlogListItem= (props)=>{
   
               <div className="blog-post-content">
                   <span className="date">
-                  { Date(props.post.frontmatter.date)}
+                  { d(Date(props.post.frontmatter.date))}
                   </span>
   
                   <h3>
