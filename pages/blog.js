@@ -6,21 +6,16 @@ import PageBanner from '../components/Common/PageBanner';
 // import BlogListItem from '../components/blog/BlogListItem';
 import Footer from '../components/Layouts/Footer';
 import Link from 'next/link'
+import { dateFormatter } from '../utils'
 
 const  BlogListItem= (props)=>{
   
-      const d = function(x){
-          var dd = String(x.getDate()).padStart(2, '0');
-  var mm = String(x.getMonth() + 1).padStart(2, '0'); //January is 0!
-  var yyyy = x.getFullYear();
   
-  return mm + '/' + dd + '/' + yyyy;
-      }
       return(
           <div className="col-lg-4 col-md-6">
           <div className="single-blog-item">
               <div className="blog-image">
-                  <Link href="#">
+                  <Link href={`/blog/${props.post.slug}`}>
                       <a>
                           <img src={'/' + props.post.frontmatter.thumbnail} alt="image" />
                       </a>
@@ -35,11 +30,11 @@ const  BlogListItem= (props)=>{
   
               <div className="blog-post-content">
                   <span className="date">
-                  { d(new Date(props.post.frontmatter.date))}
+                  { dateFormatter(new Date(props.post.frontmatter.date))}
                   </span>
   
                   <h3>
-                      <Link href="#">
+                      <Link href={`/blog/${props.post.slug}`}>
                           <a>
                              {props.post.frontmatter.name}
                           </a>
@@ -48,7 +43,7 @@ const  BlogListItem= (props)=>{
   
                   {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p> */}
                   
-                  <Link href="/blog-details">
+                  <Link href={`/blog/${props.post.slug}`}>
                       <a className="read-more-btn">
                           Read More 
                           <i className="icofont-thin-double-right"></i>
