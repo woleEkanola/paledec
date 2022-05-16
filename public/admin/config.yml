@@ -64,6 +64,19 @@ collections:
      - {label: "Publish Date", name: "date", widget: "datetime"}
      - {label: "Featured Image", name: "thumbnail", widget: "image"}
      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "registrations"
+    label: "Events & Registrations"
+    folder: "content/registrations"
+    create: true
+    identifier_field: 'name'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+     - {label: "Name", name: "name", widget: "string"}
+     - {label: "Tag", name: "tag", widget: "string"}
+     - {label: "Registration Link", name: "link", widget: "string"}
+     - {label: "Publish Date", name: "date", widget: "datetime"}
+     - {label: "Featured Image", name: "banner", widget: "image"}
+     - {label: "Body", name: "body", widget: "markdown"}
  
 
     

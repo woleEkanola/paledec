@@ -139,6 +139,14 @@ class NavbarTwo extends Component {
                                     </li>
 
                                     <li className="nav-item">
+                                        <Link href="/team">
+                                            <a className="nav-link" >
+                                                Team  
+                                            </a>
+                                        </Link>
+                                    </li>
+
+                                    <li className="nav-item">
                                         <Link href="/blog">
                                             <a className="nav-link" >
                                                 Blog 
@@ -152,7 +160,7 @@ class NavbarTwo extends Component {
                                 <div className="others-options">
                                     <Link href="/volunteers">
                                         <a className="btn btn-primary">
-                                           Register as a Volunteer
+                                          Volunteer
                                         </a>
                                     </Link>
                                 </div>
