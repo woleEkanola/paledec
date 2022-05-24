@@ -6,10 +6,12 @@ The Pan-African Humanitarian and Investment Summit is an annual event conceived 
 
 With the theme “**African Integration is possible**” the 1st edition of the Pan African Investment and Humanitarian Summit was held on the 14th of November at Alisa Hotel, Accra, Ghana with 95 delegates from 7 countries in attendance. 
 
-![The Pan-African Humanitarian and Investment Summit 2015 pictures](img/2015.png "PAHISA")
+![The Pan-African Humanitarian and Investment Summit 2015 pictures](img/2015.png "PAHISA 2015")
 
 
 
 ## 2016
 
 Held at Anantara The Palm Dubai Resort, the 2nd edition of the Pan African Investment and Humanitarian Summit with the theme “**Partnership beyond Borders**” featured over 100 delegates from 18 countries.
+
+![The Pan-African Humanitarian and Investment Summit 2016 pictures](img/2016.png "PAHISA 2016")
