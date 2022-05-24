@@ -1,5 +1,1 @@
-
-
-The Pan African Leadership and Entrepreneurship Development Centre has directly impacted over 9,000 people through our unique programmes and the continued commitment of individuals, schools, corporate organizations, mentors, sponsors and partners who share our passion in raising generations of transformational leaders and entrepreneurs across Africa. 
-
-The offices of the center are presently located in Morocco, Nigeria, Tanzania and Swaziland. These are other events and programs initiated and produced by Pan African Leadership and Entrepreneurship Development Centre, organizers of the Ghanaian Child Summits and Awards.
+The Pan African Leadership and Entrepreneurship Development Centre (PALEDEC) is a non-governmental organization committed to driving prosperity to Africa by facilitating long-term relationships and strategic initiatives that will increase diverse trade and investment opportunities in Africa. Since inception, the Pan African Leadership and Entrepreneurship Development Centre has directly impacted over 12,000 people through our unique programmes and attracted investors to 17 African countries to include Nigeria, Zimbabwe, Zambia, Kenya, Uganda, Ghana, Senegal, Liberia, Cape Verde to mention but few. We also provide a framework for Africans to invest in Africa.
