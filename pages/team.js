@@ -29,9 +29,7 @@ const  BlogListItem= (props)=>{
               </div>
   
               <div className="blog-post-content">
-                  <span className="date">
-                  { props.post.frontmatter.date}
-                  </span>
+                
   
                   <h3>
                       <Link href={`/team/${props.post.slug}`}>

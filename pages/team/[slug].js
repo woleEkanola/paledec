@@ -7,7 +7,7 @@ import matter from 'gray-matter'
 import NavbarTwo from '../../components/Layouts/NavbarTwo';
 import PageBanner from '../../components/Common/PageBanner';
 import Footer from '../../components/Layouts/Footer';
-import { dateFormatter } from '../../utils'
+
 
 
 
@@ -28,7 +28,7 @@ export default function TeamPage(props){
 <h1>
    {props.frontmatter.name}
 </h1>
-<p>     { dateFormatter(new Date(props.frontmatter.date))}</p>
+
 
 <img src={'/' + props.frontmatter.thumbnail} alt="image" />
                  

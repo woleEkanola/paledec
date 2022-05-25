@@ -6,7 +6,6 @@ import PageBanner from '../components/Common/PageBanner';
 // import BlogListItem from '../components/blog/BlogListItem';
 import Footer from '../components/Layouts/Footer';
 import Link from 'next/link'
-import { dateFormatter } from '../utils'
 
 const  BlogListItem= (props)=>{
   
@@ -30,7 +29,7 @@ const  BlogListItem= (props)=>{
   
               <div className="blog-post-content">
                   <span className="date">
-                  { dateFormatter(new Date(props.post.frontmatter.date))}
+                  { props.post.frontmatter.date}
                   </span>
   
                   <h3>
