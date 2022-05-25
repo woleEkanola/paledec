@@ -9,7 +9,7 @@ import Link from 'next/link'
 import { dateFormatter } from '../utils'
 
 const  BlogListItem= (props)=>{
-  
+  console.log(props.post.frontmatter)
   
       return(
           <div className="col-lg-4 col-md-6">
@@ -30,7 +30,7 @@ const  BlogListItem= (props)=>{
   
               <div className="blog-post-content">
                   <span className="date">
-                  { dateFormatter(new Date(props.post.frontmatter.date))}
+                  { props.post.frontmatter.date}
                   </span>
   
                   <h3>
@@ -55,7 +55,7 @@ export default function Team  (obj) {
    
   
    const posts = obj.posts
-        
+       
 
 return(
   <>
@@ -107,7 +107,8 @@ return(
               )
           
               const { data: frontmatter } = matter(markdownWithMeta)
-          
+        
+          // console.log( 'XXXXXXXXX',frontmatter.date)
               return {
                 slug,
                 frontmatter,
