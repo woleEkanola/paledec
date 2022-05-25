@@ -1,6 +1,6 @@
 ---
 name: Amb
-date: '24.12.2021'
+date: May 25, 2022 8:21 PM
 thumbnail: img/ssss.png
 ---
-Text
+Example text
