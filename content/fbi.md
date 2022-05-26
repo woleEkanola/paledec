@@ -1,3 +1,6 @@
-**FBI Magazine** is a quarterly lifestyle magazine that highlights inspirational stories, human-related features, and developmental landmarks across the African Continent in an aesthetically appealing package.
+**For Business in Africa,** mostly kown as FBI Africa empowers the readers with information that will not only give them the advice they need to thrive in their chosen industry but will be an incredible source of inspiration to get up off their couch and start working towards their goals. We cover feature fiction and non-fictional articles, interviews, celebrity profiles, events, and news on a wide variety of topics, ranging from business to fashion and everything else.
 
-Previous editions have featured the Governor of Rotary International, Former Minister of Justice Cape Verde, Asa, MO Abudu of Ebony Life TV, and many more.
+* #### [Marek](https://anyflip.com/zjdih/ifdk)[](https://anyflip.com/zjdih/uzvt)
+* #### [Taylor](https://anyflip.com/zjdih/uzvt)
+* #### [Ansari](https://www.yumpu.com/en/document/read/63161317/fbi-magazine-2)
+* #### [Prof Nabhit](https://www.yumpu.com/en/document/read/62831729/fbi-africa-magazine)
