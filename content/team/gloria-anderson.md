@@ -1,0 +1,17 @@
+---
+name: Gloria Anderson
+date: May 26, 2022 2:48 PM
+thumbnail: img/gloria-anderson-head-shot.jpeg
+---
+**Gloria Anderson** is the Founder and Executive Director of Tanzania Enlightenment Development Innovations. (TEDI). A not-for-profit organization that focuses on improving the quality of education and reducing the unemployment rate in Tanzania through the implementation of various programs such as digital literacy skills and graduate employability & entrepreneurship skills to bridge the gap between theories and practices that are needed in the 21st century. Through TEDI projects, Gloria has impacted the lives of over 10,000 young people directly through school and university projects in 2 years, including establishing computer labs in public secondary schools.
+
+
+ She has worked as a volunteer with Support for International Change (SIC) on HIV/AIDS awareness programs, as well as with Tanzania Youth Cultural Exchange (TYCEN) as a youth leader. Gloria also worked with companies like Multichoice Tanzania, a multinational pay TV company, as Digital and Tele sales manager and FabCars Ltd., an executive car hire company as a Corporate sales manager.
+Gloria is a Mandela Washington Fellow for 2021—A program by the US Department of State that aims at providing young African leaders with the tools they need to make a difference in their communities, countries, and continent. She holds a Master of Science in Marketing Management from Mzumbe University and a Bachelor of commerce in Marketing from University of Dar es Salaam She has also studied public management at Syracuse University through her participation in the Mandela Washington Fellowship.
+
+
+Gloria has represented youths in Tanzania by contributing to work projects and conferences with several organizations in Europe, Africa, Asia, and Latin America that work on youth and education development, such as Role of Youths in Peace Making in Italy, Women's Empowerment Through Sports in the Philippines, Young Social Innovators in Croatia, and Young Graduate Scholars from Africa in Johannesburg South Africa. She is a Tanzanian ambassador for The Financial Awareness Foundation (TFAF) from the USA. It aims at improving financial awareness and financial literacy in Africa.
+
+
+In 2019, she was awarded by the Africa Marketing Association as an Education Practitioner through her Education development projects through TEDI In 2020, she was listed among the 100 Tanzania Sheroes program by Launch Pad and the Swedish Embassy in Tanzania. In 2021, she was awarded as the start-up CEO of year in the Tanzania Top 100 Executives Contest through her work in improving education in Tanzania through TEDI Tanzania.
+She is a member of the Africa Evidence Network, a community of people who work in Africa and has an interest in evidence, its production and use in decision-making supported by the Africa Centre for evidence within the University of Johannesburg. In 2020, Gloria was recognized by the Governing Council of the Pan African Leadership and Entrepreneurship. She is well-known for her outstanding contribution to the development of a prosperous, sustainable, and global society competitive Africa, which was signed by H.E Brigadier General Ambassador Wallace W. Williams. In 2021, the same Governing Council appointed her as the East African Regional Director for the 6th Pan African Awards were given at the Humanitarian Summit in Istanbul, Turkey.
