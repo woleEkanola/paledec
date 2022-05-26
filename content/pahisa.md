@@ -23,3 +23,5 @@ November 18th and 19th was a historic and very remarkable day in the City of Dar
 ## 2018
 
 More than 250 participants from 42 countries were hosted in Rabat Morocco for the 4th edition of the Pan African Investment and Humanitarian Summit with the theme- **Africa My Home**
+
+![The Pan-African Humanitarian and Investment Summit 2018 pictures](/img/2018.png "PAHISA 2018")
