@@ -34,4 +34,4 @@ the Pan African Humanitarian Summit 2019 hosted over 200 delegates from 42 count
 
 Amidst the Pandemic, the 2021 edition of the Pan African Investment and Humanitarian Summit was held at Sheraton Hotel, Istanbul, Turkey from November 25th to 27th under the theme, **Stronger Together: Strategic Partnership for a Prosperous Africa.** 
 
-![The Pan-African Humanitarian and Investment Summit 2021 pictures]( "PAHISA 2021")
+![The Pan-African Humanitarian and Investment Summit 2021 pictures](img/abt2.jpg "PAHISA 2021")
