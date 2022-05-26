@@ -10,4 +10,10 @@ With the theme “**African Integration is possible**” the 1st edition of the 
 
 Held at Anantara The Palm Dubai Resort, the 2nd edition of the Pan African Investment and Humanitarian Summit with the theme “**Partnership beyond Borders**” featured over 100 delegates from 18 countries.
 
-![The Pan-African Humanitarian and Investment Summit 2016 pictures](/img/2016.png "PAHISA 2016")
+![The Pan-African Humanitarian and Investment Summit 2016 pictures](img/2016.png "PAHISA 2016")
+
+## 2017
+
+November 18th and 19th was a historic and very remarkable day in the City of Dar es Salam, Tanzania as over 300 peace makers from 30 countries converged to attend the 3rd edition of the Pan African Investment and Humanitarian Summit with the theme **“Peace is Possible”** 
+
+![The Pan-African Humanitarian and Investment Summit 2017 pictures](img/2017.png "PAHISA 2017")
