@@ -1,3 +1,5 @@
+![https://anyflip.com/zjdih/ifdk](img/marek.jpg "click link to read this edition")
+
 **For Business in Africa,** mostly known as FBI Africa empowers the readers with information that will not only give them the advice they need to thrive in their chosen industry but will be an incredible source of inspiration to get up off their couch and start working towards their goals. We cover feature fiction and non-fictional articles, interviews, celebrity profiles, events, and news on a wide variety of topics, ranging from business to fashion and everything else.
 
 ![](img/past-editions.jpg)
