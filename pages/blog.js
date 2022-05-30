@@ -12,7 +12,7 @@ const  BlogListItem= (props)=>{
   
   
       return(
-          <div className="col-lg-4 col-md-6">
+          
           <div className="single-blog-item">
               <div className="blog-image">
                   <Link href={`/blog/${props.post.slug}`}>
@@ -51,7 +51,7 @@ const  BlogListItem= (props)=>{
                   </Link>
               </div>
           </div>
-      </div>
+
       )
   }
 
@@ -73,7 +73,7 @@ return(
 
 
 <section className="about-area ptb-100 jg">
-      <div className="contnt">
+      <div className="contnt blogL">
 
         {
          posts.length >0 && posts.map(post => <BlogListItem post={post} key={post.slug}/>                          )

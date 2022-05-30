@@ -6336,3 +6336,9 @@ Go Top CSS
   background-color: #483e3e;
 }
 /*# sourceMappingURL=style.css.map */
+
+.blogL{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  grid-column-gap: 20px;
+}
