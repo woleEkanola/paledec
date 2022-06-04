@@ -1,7 +1,7 @@
 import React from 'react'
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import Footer from '../components/Layouts/Footer';
-import { react as ChildSummitContent } from '../content/child_summit.md';
+import { react as ChildSummitContent } from '../content/chid_summit.md';
 
 
 const ChildSummit = () => {
