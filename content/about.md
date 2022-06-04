@@ -1,3 +1,2 @@
-![](img/paledec_africa.png)
 
 The Pan African Leadership and Entrepreneurship Development Centre (PALEDEC) is a non-governmental organization committed to driving prosperity to Africa by facilitating long-term relationships and strategic initiatives that will increase diverse trade and investment opportunities in Africa. Since inception, the Pan African Leadership and Entrepreneurship Development Centre has directly impacted over 12,000 people through our unique programs and attracted investors to 17 African countries to include Nigeria, Zimbabwe, Zambia, Kenya, Uganda, Ghana, Senegal, Liberia, Cape Verde to mention but few. We also provide a framework for Africans to invest in Africa.
