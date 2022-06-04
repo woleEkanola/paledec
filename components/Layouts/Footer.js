@@ -41,12 +41,12 @@ class Footer extends Component {
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/services">
+                                            <Link href="/pahisa">
                                                 <a>What we do</a>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/portfolio">
+                                            <Link href="/impact">
                                                 <a>Our Impacts</a>
                                             </Link>
                                         </li>
