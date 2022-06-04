@@ -6342,3 +6342,15 @@ Go Top CSS
   grid-template-columns: 1fr 1fr 1fr ;
   grid-column-gap: 20px;
 }
+
+.grd{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  padding: 60px 50px;
+  width: 90%;
+  margin: auto;
+}
+
+.grd div{
+  border: none !important;
+}

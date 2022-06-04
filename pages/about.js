@@ -16,19 +16,17 @@ class Aabout extends Component {
             <>
                 <NavbarTwo />
 
-                {/* <PageBanner 
+                <PageBanner 
                     pageTitle="About Us" 
                     BGImage="bg-four"
-                />   */}
+                />  
 
 <div className="container">
                         <div className="row">
 
                         <div className="col-lg-12 col-md-12">
-                                <div className="blog-details">
-                                    <div className="article-img">
-                                        <img src="/images/abt3.jpg" alt="image" />
-                                    </div>
+                                <div className="blog-details grd">
+                                    
 
                                     <div className="article-content">
                                         {/* <ReactMarkdown>
@@ -37,6 +35,9 @@ class Aabout extends Component {
 
                                         <AboutContent />
                                       
+                                    </div>
+                                    <div className="article-img">
+                                        <img src="/img/paledec_africa.png" alt="image" />
                                     </div>
                                 </div>
 
