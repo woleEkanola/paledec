@@ -1,4 +1,4 @@
-![]( "Pictures from Fit to lead")
+![]()
 
 ![]()
 
