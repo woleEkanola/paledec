@@ -11,7 +11,7 @@ He was somewhat different, because aside been well read both in islamic and West
 
 He attended Jamaat Nasirl Islam primary and Secondary School Owu Isin,Government High School Ilorin ,Federal Polythecnic Bida in Niger State and Kwara State Polythecnic Ilorin where he graduated with Upper Credit. Not done yet, young Olanrewaju is an alumus of the University of Calabar where he acquired two degrees, Post Graduate Diploma and Masters In Business Administration. Olanrewaju has a Bachelor of Science Bsc in Mass Communication from the Cross River State University of Technology (CRUTECH) with Second Class Upper Division. He also had Msc in Strategic Human Resources and Currently undergoing his PHD thesis in the same course from Ebonyi State University,Abakaliki.
 
-Again,Olanrewaju is currently doing another Master of Science Degree With the University of Cross River (UNICROSS)in Mass Communication with biase in Broadcast Journalism. 
+Again,Olanrewaju is currently doing another Master of Science Degree With the University of CrossRiver (UNICROSS)in Mass Communication with biase in Broadcast Journalism. 
 
 A Multiple Award Winning Journalists both in Nigeria and Abroad, with credits in Investigative,Intelligence Gathering,Developmental and Grassroot Journalism. According to Rasheed "Journalism is my passion,listening to people,reporting stories and helping people understand complex issues are exciting for me. "Thats what gets me out of bed every morning. I mean,I get up really early because I love my job,its the sacrifice i have to make".
 
